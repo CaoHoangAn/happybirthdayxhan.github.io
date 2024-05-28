@@ -3,17 +3,17 @@ var config = {
     // 句子的长度可以任意， 你可以写十句话， 二十句话都可以
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
     texts: [
-        "Hú Le Xuân Hân",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
-        "Hôm nay là sinh nhật của bạn!!! :D",  // 同上...
-        "Mong là sẽ vẫn lùn xinh đẹp như này nha! ;)",
-        "Send",
-        "Đó là những gì tôi muốn làm.",
-        "Nhưng rồi tôi dừng lại.",
-        "Tôi nhận ra, tôi muốn làm một cái gì đó",
-        "Thật đặc biệt",
-        "Bởi Vì,", 
-        "You are Special",
-        "Chúc Mừng Sinh Nhật~~",
+        "Xin chào cô yêu quý của tụi con ,",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
+        " Hôm nay là bữa tiệc sinh nhật của cô!!! :D",  // 同上...
+        "Con mong là sẽ lun lun xinh đẹp! ;)",
+        "Chúc cô luôn thành công trong công việc ,",
+        " Tụi con đôi khi hơi nghịch ngợm ,",
+        "Khiến cho cô phải muộn phiền. ,",
+        "Nhưng cô vẫn vì tụi con mà tận tâm ,",
+        " Giúp đỡ tụi con chèo tiếp con thuyền ước mơ ,",
+        "Vì Vậy Nên Nhân Dịp Ngày Hôm Nay , ", 
+        "Tụi con xin cảm ơn Cô vì tất cả ,",
+        "Chúc Mừng Sinh Nhật 'Chị Thoa' yêu dấu~~ ,",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
